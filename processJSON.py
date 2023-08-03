@@ -21,6 +21,7 @@ def process_json(input_path, output_path):
                 "language": "Amis (Pangcah)",
                 "language_code": "ami",
                 "dialect": "uncertain",
+                "origin": "Amis Moedict",
                 "author_dictionary": "Safulo Kacaw Lalanges Hakasi",
                 "author_datasystem": "Mirusa Usiliq",
                 "date": "2023/08/04",
@@ -52,9 +53,6 @@ def process_json(input_path, output_path):
         "conjugation": []
     }
 
-    if data.get("stem"):
-      new_data["properties"]["basic"]["pos"] = "stem"
-
     # Process the definitions and translations
     for item in data.get("h", []):  # Set default empty list if "h" is missing
         for entry in item.get("d", []):  # Set default empty list if "d" is missing
@@ -73,12 +71,12 @@ def process_json(input_path, output_path):
         json.dump(new_data, f, ensure_ascii=False, indent=2)
 
 # Replace '../docs/p' and './dict' with the actual paths to your folders
-input_folder = './origindict/s'
-output_folder = './dict/-'
+input_folder = './amis-moedict/s' # DONT USE
+output_folder = './dict/^' 
 
 # Process each JSON file in the input folder
 for filename in os.listdir(input_folder):
-    if filename.endswith('.json') and filename.startswith('-'):
+    if filename.endswith('.json') and filename.startswith('^'):
         input_file = os.path.join(input_folder, filename)
         output_file = os.path.join(output_folder, filename)
         process_json(input_file, output_file)
