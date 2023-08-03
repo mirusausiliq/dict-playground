@@ -1,0 +1,61 @@
+{
+  "term": "pi'arawan",
+  "properties": {
+    "id": "",
+    "tags": [],
+    "level": {
+      "cefr": "",
+      "ilrdf": ""
+    },
+    "basic": {
+      "language": "Amis (Pangcah)",
+      "language_code": "ami",
+      "dialect": "uncertain",
+      "author_dictionary": "Safulo Kacaw Lalanges Hakasi",
+      "author_datasystem": "Mirusa Usiliq",
+      "date": "2023/08/04",
+      "time": "00:00",
+      "location": "Hualien, Taiwan",
+      "device": "MacOS",
+      "license": "MIT",
+      "reference": "...",
+      "pos": "stem"
+    }
+  },
+  "linguistics": {
+    "pos": "",
+    "ipa": "piʡaɾawan"
+  },
+  "nyms": {
+    "synonyms": [],
+    "antonyms": [],
+    "hyponyms": [],
+    "metonyms": [],
+    "homonyms": [],
+    "heternyms": [],
+    "homographs": [],
+    "polysemous": [],
+    "synecdoche": [],
+    "word_family": []
+  },
+  "definitions": [
+    {
+      "language": "zh-tw",
+      "explaination": "觀看的地方、時間。",
+      "example": "￹Pi`'araw~n `to~ `riyar~ `a~ `taporo~.￺￻觀海台。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "榜樣，樣版，模範，範例，條目，目錄，一覽圖表，藍圖。",
+      "example": "￹`O~ `pi'arawan~ `nona~ ni`tilid~an `konini~.￺￻這是論文的目錄。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    }
+  ],
+  "declensions": [],
+  "conjugation": []
+}

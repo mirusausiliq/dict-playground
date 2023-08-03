@@ -1,0 +1,60 @@
+{
+  "term": "cirarokohay",
+  "properties": {
+    "id": "",
+    "tags": [],
+    "level": {
+      "cefr": "",
+      "ilrdf": ""
+    },
+    "basic": {
+      "language": "Amis (Pangcah)",
+      "language_code": "ami",
+      "dialect": "uncertain",
+      "author_dictionary": "Safulo Kacaw Lalanges Hakasi",
+      "author_datasystem": "Mirusa Usiliq",
+      "date": "2023/08/04",
+      "time": "00:00",
+      "location": "Hualien, Taiwan",
+      "device": "MacOS",
+      "license": "MIT",
+      "reference": "..."
+    }
+  },
+  "linguistics": {
+    "pos": "",
+    "ipa": "t͡siɾaɾokohaj"
+  },
+  "nyms": {
+    "synonyms": [],
+    "antonyms": [],
+    "hyponyms": [],
+    "metonyms": [],
+    "homonyms": [],
+    "heternyms": [],
+    "homographs": [],
+    "polysemous": [],
+    "synecdoche": [],
+    "word_family": []
+  },
+  "definitions": [
+    {
+      "language": "zh-tw",
+      "explaination": "部落名稱，今台灣台東縣成功鎮芝田部落。",
+      "example": "￹`I~ `ka'amis~ `no~ `Madawdaw~ `ko~ `Cirarokohay~ `niyaro'~￺￻芝田部落位在蔴荖漏部落北邊。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "有烏龜的。",
+      "example": "￹`Cirarokohay~ `a~ `fanaw~.￺￻有烏龜的池塘。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    }
+  ],
+  "declensions": [],
+  "conjugation": []
+}

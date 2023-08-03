@@ -1,0 +1,61 @@
+{
+  "term": "milalatay",
+  "properties": {
+    "id": "",
+    "tags": [],
+    "level": {
+      "cefr": "",
+      "ilrdf": ""
+    },
+    "basic": {
+      "language": "Amis (Pangcah)",
+      "language_code": "ami",
+      "dialect": "uncertain",
+      "author_dictionary": "Safulo Kacaw Lalanges Hakasi",
+      "author_datasystem": "Mirusa Usiliq",
+      "date": "2023/08/04",
+      "time": "00:00",
+      "location": "Hualien, Taiwan",
+      "device": "MacOS",
+      "license": "MIT",
+      "reference": "...",
+      "pos": "stem"
+    }
+  },
+  "linguistics": {
+    "pos": "",
+    "ipa": "milalataj"
+  },
+  "nyms": {
+    "synonyms": [],
+    "antonyms": [],
+    "hyponyms": [],
+    "metonyms": [],
+    "homonyms": [],
+    "heternyms": [],
+    "homographs": [],
+    "polysemous": [],
+    "synecdoche": [],
+    "word_family": []
+  },
+  "definitions": [
+    {
+      "language": "zh-tw",
+      "explaination": "正在丈量著，測量著。",
+      "example": "￹`Milalatay~ `ko~ `singsi~ `to~ `dadahal~ `no~ `pitilidan~ `niyam~.￺￻老師在丈量我們學校的面積。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "指丈量者，測量者。",
+      "example": "￹`O~ ci`nira~ `ko~ `milalatay~ `to~ `kilang~ `a~ `kayakay~.￺￻丈量木橋的是他。",
+      "synonyms": "`mifakciway~",
+      "usage": "",
+      "tips": ""
+    }
+  ],
+  "declensions": [],
+  "conjugation": []
+}

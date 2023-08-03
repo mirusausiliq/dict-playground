@@ -1,0 +1,53 @@
+{
+  "term": "tafesiwtafesiwhan",
+  "properties": {
+    "id": "",
+    "tags": [],
+    "level": {
+      "cefr": "",
+      "ilrdf": ""
+    },
+    "basic": {
+      "language": "Amis (Pangcah)",
+      "language_code": "ami",
+      "dialect": "uncertain",
+      "author_dictionary": "Safulo Kacaw Lalanges Hakasi",
+      "author_datasystem": "Mirusa Usiliq",
+      "date": "2023/08/04",
+      "time": "00:00",
+      "location": "Hualien, Taiwan",
+      "device": "MacOS",
+      "license": "MIT",
+      "reference": "...",
+      "pos": "stem"
+    }
+  },
+  "linguistics": {
+    "pos": "",
+    "ipa": "tafəsiwtafəsiwhan"
+  },
+  "nyms": {
+    "synonyms": [],
+    "antonyms": [],
+    "hyponyms": [],
+    "metonyms": [],
+    "homonyms": [],
+    "heternyms": [],
+    "homographs": [],
+    "polysemous": [],
+    "synecdoche": [],
+    "word_family": []
+  },
+  "definitions": [
+    {
+      "language": "zh-tw",
+      "explaination": "特地把…飛快地越過去。",
+      "example": "￹`Tafesiwtafesiwhan~ `ningra~ `a~ `miki'ayaw~ `koya~ `i~ `'ayaway~ `a~ `tamdaw~.￺￻他颼颼一下子把前面的人超越過去，走在最前面。",
+      "synonyms": "`tafesiw~fesiw",
+      "usage": "",
+      "tips": ""
+    }
+  ],
+  "declensions": [],
+  "conjugation": []
+}

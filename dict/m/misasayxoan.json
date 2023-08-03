@@ -1,0 +1,61 @@
+{
+  "term": "misasayxoan",
+  "properties": {
+    "id": "",
+    "tags": [],
+    "level": {
+      "cefr": "",
+      "ilrdf": ""
+    },
+    "basic": {
+      "language": "Amis (Pangcah)",
+      "language_code": "ami",
+      "dialect": "uncertain",
+      "author_dictionary": "Safulo Kacaw Lalanges Hakasi",
+      "author_datasystem": "Mirusa Usiliq",
+      "date": "2023/08/04",
+      "time": "00:00",
+      "location": "Hualien, Taiwan",
+      "device": "MacOS",
+      "license": "MIT",
+      "reference": "...",
+      "pos": "stem"
+    }
+  },
+  "linguistics": {
+    "pos": "",
+    "ipa": "misasajxʔoʔan"
+  },
+  "nyms": {
+    "synonyms": [],
+    "antonyms": [],
+    "hyponyms": [],
+    "metonyms": [],
+    "homonyms": [],
+    "heternyms": [],
+    "homographs": [],
+    "polysemous": [],
+    "synecdoche": [],
+    "word_family": []
+  },
+  "definitions": [
+    {
+      "language": "zh-tw",
+      "explaination": "曾經做師傅、木匠了。",
+      "example": "￹`Misasayxoan~ `ako~.￺￻我做過木匠了。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "指做過師傅、木匠的（事情）。",
+      "example": "￹`Pasowalen~ `kako~, `samaanay~ `ko~ `misasayxoan~ `iso~?￺￻告訴我吧，你做木匠做得怎麼樣？",
+      "synonyms": "misasa`mokong~an",
+      "usage": "",
+      "tips": ""
+    }
+  ],
+  "declensions": [],
+  "conjugation": []
+}

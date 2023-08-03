@@ -1,0 +1,61 @@
+{
+  "term": "kairaira",
+  "properties": {
+    "id": "",
+    "tags": [],
+    "level": {
+      "cefr": "",
+      "ilrdf": ""
+    },
+    "basic": {
+      "language": "Amis (Pangcah)",
+      "language_code": "ami",
+      "dialect": "uncertain",
+      "author_dictionary": "Safulo Kacaw Lalanges Hakasi",
+      "author_datasystem": "Mirusa Usiliq",
+      "date": "2023/08/04",
+      "time": "00:00",
+      "location": "Hualien, Taiwan",
+      "device": "MacOS",
+      "license": "MIT",
+      "reference": "...",
+      "pos": "stem"
+    }
+  },
+  "linguistics": {
+    "pos": "",
+    "ipa": "kʔaʔiɾʔaʔiɾa"
+  },
+  "nyms": {
+    "synonyms": [],
+    "antonyms": [],
+    "hyponyms": [],
+    "metonyms": [],
+    "homonyms": [],
+    "heternyms": [],
+    "homographs": [],
+    "polysemous": [],
+    "synecdoche": [],
+    "word_family": []
+  },
+  "definitions": [
+    {
+      "language": "zh-tw",
+      "explaination": "各色各樣。",
+      "example": "￹`Adihay~ `ko~ `kairaira~ `no~ `dafong~.￺￻各色各樣的東西。",
+      "synonyms": "`kahirahira~",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "種類，類別。",
+      "example": "￹`Adihay~ `ko~ `kairaira~ `no~ `kilang~￺￻樹木有很多種類。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    }
+  ],
+  "declensions": [],
+  "conjugation": []
+}

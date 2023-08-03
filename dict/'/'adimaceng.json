@@ -1,0 +1,68 @@
+{
+  "term": "'adimaceng",
+  "properties": {
+    "id": "",
+    "tags": [],
+    "level": {
+      "cefr": "",
+      "ilrdf": ""
+    },
+    "basic": {
+      "language": "Amis (Pangcah)",
+      "language_code": "ami",
+      "dialect": "uncertain",
+      "author_dictionary": "Safulo Kacaw Lalanges Hakasi",
+      "author_datasystem": "Mirusa Usiliq",
+      "date": "2023/08/04",
+      "time": "00:00",
+      "location": "Hualien, Taiwan",
+      "device": "MacOS",
+      "license": "MIT",
+      "reference": "..."
+    }
+  },
+  "linguistics": {
+    "pos": "",
+    "ipa": "ʡaɬimat͡səŋ"
+  },
+  "nyms": {
+    "synonyms": [],
+    "antonyms": [],
+    "hyponyms": [],
+    "metonyms": [],
+    "homonyms": [],
+    "heternyms": [],
+    "homographs": [],
+    "polysemous": [],
+    "synecdoche": [],
+    "word_family": []
+  },
+  "definitions": [
+    {
+      "language": "zh-tw",
+      "explaination": "無患子。",
+      "example": "￹`Sapifaca'~ `to~ `riko'~ `ko~ `'adimaceng~.￺￻無患子可拿來洗衣服。",
+      "synonyms": "`rao'~",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "無患子。",
+      "example": "￹`O~ `rao'~ `ko~ `sapisanga'~ `no~ `'Amis~ `to~ `safon~.￺￻阿美族人以無患子做成肥皂。",
+      "synonyms": "`rao'~",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "（阿美族人將其子做成肥皂）",
+      "example": "",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    }
+  ],
+  "declensions": [],
+  "conjugation": []
+}

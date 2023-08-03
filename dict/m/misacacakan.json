@@ -1,0 +1,77 @@
+{
+  "term": "misacacakan",
+  "properties": {
+    "id": "",
+    "tags": [],
+    "level": {
+      "cefr": "",
+      "ilrdf": ""
+    },
+    "basic": {
+      "language": "Amis (Pangcah)",
+      "language_code": "ami",
+      "dialect": "uncertain",
+      "author_dictionary": "Safulo Kacaw Lalanges Hakasi",
+      "author_datasystem": "Mirusa Usiliq",
+      "date": "2023/08/04",
+      "time": "00:00",
+      "location": "Hualien, Taiwan",
+      "device": "MacOS",
+      "license": "MIT",
+      "reference": "...",
+      "pos": "stem"
+    }
+  },
+  "linguistics": {
+    "pos": "",
+    "ipa": "misat͡sat͡sakan"
+  },
+  "nyms": {
+    "synonyms": [],
+    "antonyms": [],
+    "hyponyms": [],
+    "metonyms": [],
+    "homonyms": [],
+    "heternyms": [],
+    "homographs": [],
+    "polysemous": [],
+    "synecdoche": [],
+    "word_family": []
+  },
+  "definitions": [
+    {
+      "language": "zh-tw",
+      "explaination": "把…烹飪了、蒸煮了。",
+      "example": "￹`Misacacakan~ `ira~ `ko~ `sakalafi~.￺￻她把晚飯煮好了。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "指所烹飪的、蒸煮的（飯菜）。",
+      "example": "￹`Nga'ayay~ `ko~ `misacacakan~ `ira~ `a~ `kaenen~ `han~?￺￻她做的飯好吃嗎？",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "把…燒烤了、煮熟了。",
+      "example": "￹`Misacacakan~ `ko~ `sakalahok~ `niyam~ `a~ `titi~.￺￻我們中午要吃的飯和肉煮熟了。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "指所燒烤的（對象、食物）。",
+      "example": "￹`Misacacakan~ `a~ `holo~.￺￻煮熟的飯。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    }
+  ],
+  "declensions": [],
+  "conjugation": []
+}

@@ -1,0 +1,60 @@
+{
+  "term": "hanaw",
+  "properties": {
+    "id": "",
+    "tags": [],
+    "level": {
+      "cefr": "",
+      "ilrdf": ""
+    },
+    "basic": {
+      "language": "Amis (Pangcah)",
+      "language_code": "ami",
+      "dialect": "uncertain",
+      "author_dictionary": "Safulo Kacaw Lalanges Hakasi",
+      "author_datasystem": "Mirusa Usiliq",
+      "date": "2023/08/04",
+      "time": "00:00",
+      "location": "Hualien, Taiwan",
+      "device": "MacOS",
+      "license": "MIT",
+      "reference": "..."
+    }
+  },
+  "linguistics": {
+    "pos": "",
+    "ipa": "hanaw"
+  },
+  "nyms": {
+    "synonyms": [],
+    "antonyms": [],
+    "hyponyms": [],
+    "metonyms": [],
+    "homonyms": [],
+    "heternyms": [],
+    "homographs": [],
+    "polysemous": [],
+    "synecdoche": [],
+    "word_family": []
+  },
+  "definitions": [
+    {
+      "language": "zh-tw",
+      "explaination": "〔連接詞〕。",
+      "example": "￹Sa^ca^`ca~sa `ka~ `lafi~ `o~ sapi`talaw~ `ningra~ `toya~ `kaying~ `hanaw~.￺￻他不吃晚餐原來是在等女朋友。",
+      "synonyms": "`salaw~",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "因此，所以，這就是理由，原來如此。",
+      "example": "￹Mami`dipot~ `to~ `malitengay~ `hanaw~ `minokay~ `i~ `niyaro'~. ￺￻為了照顧老人所以回部去了。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    }
+  ],
+  "declensions": [],
+  "conjugation": []
+}

@@ -1,0 +1,77 @@
+{
+  "term": "mi'afalangay",
+  "properties": {
+    "id": "",
+    "tags": [],
+    "level": {
+      "cefr": "",
+      "ilrdf": ""
+    },
+    "basic": {
+      "language": "Amis (Pangcah)",
+      "language_code": "ami",
+      "dialect": "uncertain",
+      "author_dictionary": "Safulo Kacaw Lalanges Hakasi",
+      "author_datasystem": "Mirusa Usiliq",
+      "date": "2023/08/04",
+      "time": "00:00",
+      "location": "Hualien, Taiwan",
+      "device": "MacOS",
+      "license": "MIT",
+      "reference": "...",
+      "pos": "stem"
+    }
+  },
+  "linguistics": {
+    "pos": "",
+    "ipa": "miʡafalaŋaj"
+  },
+  "nyms": {
+    "synonyms": [],
+    "antonyms": [],
+    "hyponyms": [],
+    "metonyms": [],
+    "homonyms": [],
+    "heternyms": [],
+    "homographs": [],
+    "polysemous": [],
+    "synecdoche": [],
+    "word_family": []
+  },
+  "definitions": [
+    {
+      "language": "zh-tw",
+      "explaination": "正在扛、扛了。",
+      "example": "￹`Mi'afalangay~ `kako~ `to~ `'asisiw~.￺￻我正扛著稻草。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "指肩扛著。",
+      "example": "￹`Mi'afalangay~ `to~ `'asisiw~ `a~ `tamdaw~.￺￻扛稻草的人。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "正在攙扶，攙扶了。",
+      "example": "￹`Mi'afalangay~ ci`nira~ `to~ `mamo~ tala`paisin~gan.￺￻他正攙扶著婆婆去醫院。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "指攙扶者。",
+      "example": "￹`Mi'afalangay~ `to~ `mamo~ `a~ `wawa~.￺￻攙扶婆婆的小孩子。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    }
+  ],
+  "declensions": [],
+  "conjugation": []
+}

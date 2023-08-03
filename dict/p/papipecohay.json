@@ -1,0 +1,61 @@
+{
+  "term": "papipecohay",
+  "properties": {
+    "id": "",
+    "tags": [],
+    "level": {
+      "cefr": "",
+      "ilrdf": ""
+    },
+    "basic": {
+      "language": "Amis (Pangcah)",
+      "language_code": "ami",
+      "dialect": "uncertain",
+      "author_dictionary": "Safulo Kacaw Lalanges Hakasi",
+      "author_datasystem": "Mirusa Usiliq",
+      "date": "2023/08/04",
+      "time": "00:00",
+      "location": "Hualien, Taiwan",
+      "device": "MacOS",
+      "license": "MIT",
+      "reference": "...",
+      "pos": "stem"
+    }
+  },
+  "linguistics": {
+    "pos": "",
+    "ipa": "papipət͡sohaj"
+  },
+  "nyms": {
+    "synonyms": [],
+    "antonyms": [],
+    "hyponyms": [],
+    "metonyms": [],
+    "homonyms": [],
+    "heternyms": [],
+    "homographs": [],
+    "polysemous": [],
+    "synecdoche": [],
+    "word_family": []
+  },
+  "definitions": [
+    {
+      "language": "zh-tw",
+      "explaination": "讓人侵佔、霸佔了；叫人去侵佔了。",
+      "example": "￹`Papipecohay~ `ko~ `ho~nti `no~ Mancin `to~ `Cepo'~ `a~ `niyaro'~ `i~ 1878 `miheca~.￺￻滿清政府在1878年叫士兵霸佔秀姑巒溪河口附近的土地。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "指派去侵佔、霸佔他人土地或財物的人。",
+      "example": "￹Mancin `a~ `sifo~ `ko~ papipec`hay~ `to~ `sofitay~ `to~ `sera~.￺￻叫士兵霸佔土地的是滿清政府。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    }
+  ],
+  "declensions": [],
+  "conjugation": []
+}

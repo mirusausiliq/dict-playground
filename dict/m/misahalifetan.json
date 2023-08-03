@@ -1,0 +1,77 @@
+{
+  "term": "misahalifetan",
+  "properties": {
+    "id": "",
+    "tags": [],
+    "level": {
+      "cefr": "",
+      "ilrdf": ""
+    },
+    "basic": {
+      "language": "Amis (Pangcah)",
+      "language_code": "ami",
+      "dialect": "uncertain",
+      "author_dictionary": "Safulo Kacaw Lalanges Hakasi",
+      "author_datasystem": "Mirusa Usiliq",
+      "date": "2023/08/04",
+      "time": "00:00",
+      "location": "Hualien, Taiwan",
+      "device": "MacOS",
+      "license": "MIT",
+      "reference": "...",
+      "pos": "stem"
+    }
+  },
+  "linguistics": {
+    "pos": "",
+    "ipa": "misahalifətan"
+  },
+  "nyms": {
+    "synonyms": [],
+    "antonyms": [],
+    "hyponyms": [],
+    "metonyms": [],
+    "homonyms": [],
+    "heternyms": [],
+    "homographs": [],
+    "polysemous": [],
+    "synecdoche": [],
+    "word_family": []
+  },
+  "definitions": [
+    {
+      "language": "zh-tw",
+      "explaination": "曾經使勁、用力了。",
+      "example": "￹`Misahalifetan~ `niyam~ `kora~ `paliding~ `a~ `mitengteng~.￺￻我們用力地把那輛車子拉走了。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "指使勁、用力所做的（對象）。",
+      "example": "￹`O~ `maan~ `ko~ `misahalifetan~ `iso~ `a~ `micoroh~?￺￻你在用力地推什麼呢？",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "使勁地把…比試了，跟某某比賽了。",
+      "example": "￹`Misahalifetan~ `ira~ `kako~.￺￻他跟我比試了。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "指所比試的、比賽的（對象）。",
+      "example": "￹`O~ `cima~ `ko~ `misahalifetan~ `iso~ `saw~?￺￻跟你比賽的是誰呢？",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    }
+  ],
+  "declensions": [],
+  "conjugation": []
+}

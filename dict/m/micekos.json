@@ -1,0 +1,109 @@
+{
+  "term": "micekos",
+  "properties": {
+    "id": "",
+    "tags": [],
+    "level": {
+      "cefr": "",
+      "ilrdf": ""
+    },
+    "basic": {
+      "language": "Amis (Pangcah)",
+      "language_code": "ami",
+      "dialect": "uncertain",
+      "author_dictionary": "Safulo Kacaw Lalanges Hakasi",
+      "author_datasystem": "Mirusa Usiliq",
+      "date": "2023/08/04",
+      "time": "00:00",
+      "location": "Hualien, Taiwan",
+      "device": "MacOS",
+      "license": "MIT",
+      "reference": "...",
+      "pos": "stem"
+    }
+  },
+  "linguistics": {
+    "pos": "",
+    "ipa": "mit͡səkos"
+  },
+  "nyms": {
+    "synonyms": [],
+    "antonyms": [],
+    "hyponyms": [],
+    "metonyms": [],
+    "homonyms": [],
+    "heternyms": [],
+    "homographs": [],
+    "polysemous": [],
+    "synecdoche": [],
+    "word_family": []
+  },
+  "definitions": [
+    {
+      "language": "zh-tw",
+      "explaination": "返回去。",
+      "example": "￹`Micekos~ `kako~ `miala~ `to~ `matawalay~ `a~ `tilid~.￺￻我返回去拿忘了的書本。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "測量。",
+      "example": "￹`Micekos~ `ci~ `kaka~ `to~ `paloma'an~ `a~ `sera~.￺￻哥哥測量建地的面積。",
+      "synonyms": "`mifakciw~",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "`micekosan~（`cekos~）",
+      "example": "",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "測量。",
+      "example": "￹`Micekosan~ `a~ `paloma'an~.￺￻測量好的建地。",
+      "synonyms": "`mifakciwan~",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "`micekosay~（`cekos~）",
+      "example": "",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "測量者。",
+      "example": "￹`Ci~ `wama~ `ko~ `micekosay~.￺￻是父親測量的。",
+      "synonyms": "`mifakciway~",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": " 返回，重新回去取遺忘的東西。",
+      "example": "",
+      "synonyms": "mi`cofay~. `Micekos~ `kako~ `to~ `riko'~.我返回去取衣服",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "模仿。",
+      "example": "￹`A~ `ka~ pisacekos`cekos~.￺￻不要模仿他人的行為。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    }
+  ],
+  "declensions": [],
+  "conjugation": []
+}

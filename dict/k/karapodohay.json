@@ -1,0 +1,61 @@
+{
+  "term": "karapodohay",
+  "properties": {
+    "id": "",
+    "tags": [],
+    "level": {
+      "cefr": "",
+      "ilrdf": ""
+    },
+    "basic": {
+      "language": "Amis (Pangcah)",
+      "language_code": "ami",
+      "dialect": "uncertain",
+      "author_dictionary": "Safulo Kacaw Lalanges Hakasi",
+      "author_datasystem": "Mirusa Usiliq",
+      "date": "2023/08/04",
+      "time": "00:00",
+      "location": "Hualien, Taiwan",
+      "device": "MacOS",
+      "license": "MIT",
+      "reference": "...",
+      "pos": "stem"
+    }
+  },
+  "linguistics": {
+    "pos": "",
+    "ipa": "kaɾapoɬohaj"
+  },
+  "nyms": {
+    "synonyms": [],
+    "antonyms": [],
+    "hyponyms": [],
+    "metonyms": [],
+    "homonyms": [],
+    "heternyms": [],
+    "homographs": [],
+    "polysemous": [],
+    "synecdoche": [],
+    "word_family": []
+  },
+  "definitions": [
+    {
+      "language": "zh-tw",
+      "explaination": "天性吝嗇、小氣，嫉妒，愛吃醋的。",
+      "example": "￹`Karapodohay~ `to~ `widang~ `kina~ `kapah~.￺￻這年青人對朋友很吝嗇。",
+      "synonyms": "`'inap~",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "指天性文嗇的人，小氣鬼，嫉妒。",
+      "example": "￹`Karapodohay~ `ko~ `'Amis~ `a~ `tamdaw~ `sanay~.￺￻有人說阿美族天性就很會嫉妒別人。",
+      "synonyms": "`kara'idiay~",
+      "usage": "",
+      "tips": ""
+    }
+  ],
+  "declensions": [],
+  "conjugation": []
+}

@@ -1,0 +1,60 @@
+{
+  "term": "folkok",
+  "properties": {
+    "id": "",
+    "tags": [],
+    "level": {
+      "cefr": "",
+      "ilrdf": ""
+    },
+    "basic": {
+      "language": "Amis (Pangcah)",
+      "language_code": "ami",
+      "dialect": "uncertain",
+      "author_dictionary": "Safulo Kacaw Lalanges Hakasi",
+      "author_datasystem": "Mirusa Usiliq",
+      "date": "2023/08/04",
+      "time": "00:00",
+      "location": "Hualien, Taiwan",
+      "device": "MacOS",
+      "license": "MIT",
+      "reference": "..."
+    }
+  },
+  "linguistics": {
+    "pos": "",
+    "ipa": "folkok"
+  },
+  "nyms": {
+    "synonyms": [],
+    "antonyms": [],
+    "hyponyms": [],
+    "metonyms": [],
+    "homonyms": [],
+    "heternyms": [],
+    "homographs": [],
+    "polysemous": [],
+    "synecdoche": [],
+    "word_family": []
+  },
+  "definitions": [
+    {
+      "language": "zh-tw",
+      "explaination": "恐懼，失魂落魄。",
+      "example": "￹`Mita'elif~ `ko~ `tomay~ `itini~, `folkok~ `saan~ `koya~ `wawa~ `a~ `paka'araw~.￺￻熊剛路過，那孩子見到熊甚為恐懼。",
+      "synonyms": "`folokok~",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "威脅。",
+      "example": "￹`Mifolkok~ `ko~ `KOFIT~-19 `lifong~ `to~ `'orip~ `no~ `tamdaw~. ￺￻新冠病毒威脅到人們的日常生活。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    }
+  ],
+  "declensions": [],
+  "conjugation": []
+}

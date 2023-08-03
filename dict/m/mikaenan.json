@@ -1,0 +1,61 @@
+{
+  "term": "mikaenan",
+  "properties": {
+    "id": "",
+    "tags": [],
+    "level": {
+      "cefr": "",
+      "ilrdf": ""
+    },
+    "basic": {
+      "language": "Amis (Pangcah)",
+      "language_code": "ami",
+      "dialect": "uncertain",
+      "author_dictionary": "Safulo Kacaw Lalanges Hakasi",
+      "author_datasystem": "Mirusa Usiliq",
+      "date": "2023/08/04",
+      "time": "00:00",
+      "location": "Hualien, Taiwan",
+      "device": "MacOS",
+      "license": "MIT",
+      "reference": "...",
+      "pos": "stem"
+    }
+  },
+  "linguistics": {
+    "pos": "",
+    "ipa": "mikʔaʔənan"
+  },
+  "nyms": {
+    "synonyms": [],
+    "antonyms": [],
+    "hyponyms": [],
+    "metonyms": [],
+    "homonyms": [],
+    "heternyms": [],
+    "homographs": [],
+    "polysemous": [],
+    "synecdoche": [],
+    "word_family": []
+  },
+  "definitions": [
+    {
+      "language": "zh-tw",
+      "explaination": "把…討來吃了、吃過了。",
+      "example": "￹`Mikaenan~ `no~ `wawa~ `ko~ `toron~.￺￻孩子把年糕吃了。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "`Toloay~ `a~ `kaysing~ `ko~ `mikaen~`a~`n~ `ako~ `a~ `holo~.我吃了三碗飯。",
+      "example": "￹`Caay~ `ka~ `pina~ `a~ `takid~ `ko~ `mikaenan~ `a~ epah，ma`wara~ `to~ `kako~ `kini~.￺￻我才喝了幾杯酒，怎麼就有些醉意了呢。",
+      "synonyms": "`komaen~.",
+      "usage": "",
+      "tips": ""
+    }
+  ],
+  "declensions": [],
+  "conjugation": []
+}

@@ -1,0 +1,61 @@
+{
+  "term": "macacofelis",
+  "properties": {
+    "id": "",
+    "tags": [],
+    "level": {
+      "cefr": "",
+      "ilrdf": ""
+    },
+    "basic": {
+      "language": "Amis (Pangcah)",
+      "language_code": "ami",
+      "dialect": "uncertain",
+      "author_dictionary": "Safulo Kacaw Lalanges Hakasi",
+      "author_datasystem": "Mirusa Usiliq",
+      "date": "2023/08/04",
+      "time": "00:00",
+      "location": "Hualien, Taiwan",
+      "device": "MacOS",
+      "license": "MIT",
+      "reference": "...",
+      "pos": "stem"
+    }
+  },
+  "linguistics": {
+    "pos": "",
+    "ipa": "mat͡sat͡sofəlis"
+  },
+  "nyms": {
+    "synonyms": [],
+    "antonyms": [],
+    "hyponyms": [],
+    "metonyms": [],
+    "homonyms": [],
+    "heternyms": [],
+    "homographs": [],
+    "polysemous": [],
+    "synecdoche": [],
+    "word_family": []
+  },
+  "definitions": [
+    {
+      "language": "zh-tw",
+      "explaination": "彼此互相答謝、回禮。",
+      "example": "￹`Macacofelis~ `to~ `dafong~ `ko~ tam`tadaw~.￺￻人們以物昜物做交昜。",
+      "synonyms": "sapico`ay~",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "交會、擦身而過。",
+      "example": "￹Ala`ciyap~ `saan~ `koya~ `kapah~ a`toya~ `kaying~ `a~ `macacofelis~.￺￻那位年青人和小姐互相看了一瞥就擦身而過。",
+      "synonyms": "`macacefelis~",
+      "usage": "",
+      "tips": ""
+    }
+  ],
+  "declensions": [],
+  "conjugation": []
+}

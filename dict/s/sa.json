@@ -1,0 +1,276 @@
+{
+  "term": "sa",
+  "properties": {
+    "id": "",
+    "tags": [],
+    "level": {
+      "cefr": "",
+      "ilrdf": ""
+    },
+    "basic": {
+      "language": "Amis (Pangcah)",
+      "language_code": "ami",
+      "dialect": "uncertain",
+      "author_dictionary": "Safulo Kacaw Lalanges Hakasi",
+      "author_datasystem": "Mirusa Usiliq",
+      "date": "2023/08/04",
+      "time": "00:00",
+      "location": "Hualien, Taiwan",
+      "device": "MacOS",
+      "license": "MIT",
+      "reference": "..."
+    }
+  },
+  "linguistics": {
+    "pos": "",
+    "ipa": "sa"
+  },
+  "nyms": {
+    "synonyms": [],
+    "antonyms": [],
+    "hyponyms": [],
+    "metonyms": [],
+    "homonyms": [],
+    "heternyms": [],
+    "homographs": [],
+    "polysemous": [],
+    "synecdoche": [],
+    "word_family": []
+  },
+  "definitions": [
+    {
+      "language": "zh-tw",
+      "explaination": "(前綴)。",
+      "example": "",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "主要表示：",
+      "example": "",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "創造、製造。",
+      "example": "￹￺￻如saloma' 蓋房子，sakikay 製造機器；",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "種植、栽培。",
+      "example": "￹￺￻如sadateng 種菜，sacapox 育苗；",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "屠宰、宰殺。",
+      "example": "￹￺￻如safafoy 殺豬；",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "烹飪、炊事。",
+      "example": "￹￺￻如saranam 做早飯；",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "參與群體性的宗教或祭祀活動。",
+      "example": "￹￺￻如salisin 祈禱、祭祀，sakeristo 參加基督教；",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "刻意謀求、促成、致使。",
+      "example": "￹￺￻如safaloco' 研究，sadadahal 拓寬，safangcal 淨化心靈。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "(前綴)。",
+      "example": "",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "主要表示：",
+      "example": "",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "工具。",
+      "example": "￹￺￻如sarosaros 鋸子，sasenat 耙子；",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "專用物品。",
+      "example": "￹￺￻sapaloma 種子，sapahika 祭祀用品；",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "專用場所。",
+      "example": "￹￺￻如sailoh 焚獵場。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "(副詞)。表示形容詞的最高級：最。",
+      "example": "￹`Sa~ `tanoktokay~.￺￻最結實的。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "",
+      "example": "",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "(後綴)。",
+      "example": "",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "構成副動詞。",
+      "example": "",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "主要表示：",
+      "example": "",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "摹聲擬態。",
+      "example": "￹Ngeri'`ngeri'~sa `a~ `mahoni~ `ko~ `hecek~.￺￻柱子吱嘎嘎地（響）。 ",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "類似。",
+      "example": "￹`Sakahengangsa~ `ko~ `hana~ `a~ matifelak.￺￻花紅彤彤似的開。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "行為方式。",
+      "example": "￹`To'olsa~ `a~ `maro'~ `koya~ `wina~ ika`'ayaw~ `no~ `loma'~.￺￻媽媽寂寞地坐在屋前。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "(稱謂動詞)。",
+      "example": "",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "與相關動詞結合、共同表達思考、陳述等內容。",
+      "example": "",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "主要表示：",
+      "example": "",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "這樣想。",
+      "example": "￹“Sa`maan~en `nga'~ `ciwawa~?” `sa~ `ko~ `harateng~ `naira~.￺￻” sa ko harateng naira.“怎麼辦才能懷孕？",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "”她們想道。",
+      "example": "",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "這樣說。",
+      "example": "￹“I`raay~ `ko~ `pakiraan~.” `sa~ ci`nira~ `a~ `somowal~.￺￻” sa cinira a somowal.他說道：“有辦法了。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "”",
+      "example": "",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "要說、一旦、如果出現（某種狀況）。",
+      "example": "￹`Mi'orong~ `sa~ , `adihayay~ `to~ `niyam~ `ko~ `mi'orongan~ `ira~.￺￻要說扛東西，他扛的比我們的多。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    }
+  ],
+  "declensions": [],
+  "conjugation": []
+}

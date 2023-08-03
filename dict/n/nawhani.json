@@ -1,0 +1,53 @@
+{
+  "term": "nawhani",
+  "properties": {
+    "id": "",
+    "tags": [],
+    "level": {
+      "cefr": "",
+      "ilrdf": ""
+    },
+    "basic": {
+      "language": "Amis (Pangcah)",
+      "language_code": "ami",
+      "dialect": "uncertain",
+      "author_dictionary": "Safulo Kacaw Lalanges Hakasi",
+      "author_datasystem": "Mirusa Usiliq",
+      "date": "2023/08/04",
+      "time": "00:00",
+      "location": "Hualien, Taiwan",
+      "device": "MacOS",
+      "license": "MIT",
+      "reference": "...",
+      "pos": "stem"
+    }
+  },
+  "linguistics": {
+    "pos": "",
+    "ipa": "nawhani"
+  },
+  "nyms": {
+    "synonyms": [],
+    "antonyms": [],
+    "hyponyms": [],
+    "metonyms": [],
+    "homonyms": [],
+    "heternyms": [],
+    "homographs": [],
+    "polysemous": [],
+    "synecdoche": [],
+    "word_family": []
+  },
+  "definitions": [
+    {
+      "language": "zh-tw",
+      "explaination": "因為，由於。",
+      "example": "￹`Nawhani~ `o~ `no~ `'Amis~ `a~ `remes~ `ko~ i`tireng~ay `no~ `mita~, `orasaka~ `citatodotodong~ `aca~ `kita~ `a~ `mipa'orip~ `to~ `nano~ `to'as~ `ita~ `a~ `fana'~.￺￻由於我們身上有阿美族的血液，所以有責任把老一輩的智慧傳承下去。",
+      "synonyms": "`ira~ `ko~ `saka~",
+      "usage": "",
+      "tips": ""
+    }
+  ],
+  "declensions": [],
+  "conjugation": []
+}

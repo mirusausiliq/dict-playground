@@ -1,0 +1,61 @@
+{
+  "term": "palafosa",
+  "properties": {
+    "id": "",
+    "tags": [],
+    "level": {
+      "cefr": "",
+      "ilrdf": ""
+    },
+    "basic": {
+      "language": "Amis (Pangcah)",
+      "language_code": "ami",
+      "dialect": "uncertain",
+      "author_dictionary": "Safulo Kacaw Lalanges Hakasi",
+      "author_datasystem": "Mirusa Usiliq",
+      "date": "2023/08/04",
+      "time": "00:00",
+      "location": "Hualien, Taiwan",
+      "device": "MacOS",
+      "license": "MIT",
+      "reference": "...",
+      "pos": "stem"
+    }
+  },
+  "linguistics": {
+    "pos": "",
+    "ipa": "palafosa"
+  },
+  "nyms": {
+    "synonyms": [],
+    "antonyms": [],
+    "hyponyms": [],
+    "metonyms": [],
+    "homonyms": [],
+    "heternyms": [],
+    "homographs": [],
+    "polysemous": [],
+    "synecdoche": [],
+    "word_family": []
+  },
+  "definitions": [
+    {
+      "language": "zh-tw",
+      "explaination": "用嫁禍於人的方式、誣賴他人的方式，惡意的、別有用心地。",
+      "example": "￹`Palafosa~ ci`nira~ `a~ `papik~alic `to~ `koliciw~ `takowanan~, `polin~sa `a~ maepod `kako~ `nani~ `koliciw~.￺￻他別有用心地慫恿我騎腳踏車，結果我從車上摔下來跌倒了。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "別有用心地，居心叵測地，惡作劇地（做）危害他人。",
+      "example": "￹`Palafosa~ ci`nira~ papi`'aca~ `tamiyanan~ `to~ `tatiihay~ `a~ `maamaan~.￺￻他別有用心地讓我們買他故障的東西。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    }
+  ],
+  "declensions": [],
+  "conjugation": []
+}

@@ -1,0 +1,68 @@
+{
+  "term": "kama",
+  "properties": {
+    "id": "",
+    "tags": [],
+    "level": {
+      "cefr": "",
+      "ilrdf": ""
+    },
+    "basic": {
+      "language": "Amis (Pangcah)",
+      "language_code": "ami",
+      "dialect": "uncertain",
+      "author_dictionary": "Safulo Kacaw Lalanges Hakasi",
+      "author_datasystem": "Mirusa Usiliq",
+      "date": "2023/08/04",
+      "time": "00:00",
+      "location": "Hualien, Taiwan",
+      "device": "MacOS",
+      "license": "MIT",
+      "reference": "..."
+    }
+  },
+  "linguistics": {
+    "pos": "",
+    "ipa": "kama"
+  },
+  "nyms": {
+    "synonyms": [],
+    "antonyms": [],
+    "hyponyms": [],
+    "metonyms": [],
+    "homonyms": [],
+    "heternyms": [],
+    "homographs": [],
+    "polysemous": [],
+    "synecdoche": [],
+    "word_family": []
+  },
+  "definitions": [
+    {
+      "language": "zh-tw",
+      "explaination": "觸摸，撫摸。",
+      "example": "￹`Mikama~ `ko~ `cikawasay~ `to~ fangoh `no~ `adadaay~ `a~ mi`sa~'il.￺￻巫師觸摸病人的頭治病。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "柑橘。〔閩南語借詞〕",
+      "example": "￹`O~ `kama~ `han~ `no~ `payrang~ `ko~ `mami'~.￺￻漢人說柑橘是kama.。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "鐮刀〈日語借詞〉。",
+      "example": "￹`O~ `kama~ `ko~ sapi`fali~w `ako~ `to~ `semot~.￺￻我用鐮刀砍伐雜草。",
+      "synonyms": "`kawkaw~",
+      "usage": "",
+      "tips": ""
+    }
+  ],
+  "declensions": [],
+  "conjugation": []
+}

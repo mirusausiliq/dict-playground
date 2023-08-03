@@ -1,0 +1,84 @@
+{
+  "term": "calay",
+  "properties": {
+    "id": "",
+    "tags": [],
+    "level": {
+      "cefr": "",
+      "ilrdf": ""
+    },
+    "basic": {
+      "language": "Amis (Pangcah)",
+      "language_code": "ami",
+      "dialect": "uncertain",
+      "author_dictionary": "Safulo Kacaw Lalanges Hakasi",
+      "author_datasystem": "Mirusa Usiliq",
+      "date": "2023/08/04",
+      "time": "00:00",
+      "location": "Hualien, Taiwan",
+      "device": "MacOS",
+      "license": "MIT",
+      "reference": "..."
+    }
+  },
+  "linguistics": {
+    "pos": "",
+    "ipa": "t͡salaj"
+  },
+  "nyms": {
+    "synonyms": [],
+    "antonyms": [],
+    "hyponyms": [],
+    "metonyms": [],
+    "homonyms": [],
+    "heternyms": [],
+    "homographs": [],
+    "polysemous": [],
+    "synecdoche": [],
+    "word_family": []
+  },
+  "definitions": [
+    {
+      "language": "zh-tw",
+      "explaination": "繩子，繩索。",
+      "example": "￹`Calay~ `no~ `paliding~.￺￻牛車的纜繩。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "拉線，",
+      "example": "￹`Paketingen~ `ko~ `calay~ `i~ `paliding~.￺￻將拉繩掛在牛車上。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "機器的轉動帶，傳送帶。",
+      "example": "￹`O~ `calay~ `ko~ `micolo'ay~ `to~ `dafong~ `i~ `ka'eferan~ `no~ `hikoki~.￺￻機場用輸送帶輪送行李。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "蜘蛛網。",
+      "example": "￹ci`calay~ay `to~ `kona~ ka`telang~ay `a~ `loma~.￺￻這老房子有蜘蛛網。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "電子書。",
+      "example": "￹`O~ `calay~ay `tilid~ `kona~ `anini~ay `a~ `nanengnengen~.￺￻現在的人都看電子書。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    }
+  ],
+  "declensions": [],
+  "conjugation": []
+}

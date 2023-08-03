@@ -1,0 +1,76 @@
+{
+  "term": "ca'engar",
+  "properties": {
+    "id": "",
+    "tags": [],
+    "level": {
+      "cefr": "",
+      "ilrdf": ""
+    },
+    "basic": {
+      "language": "Amis (Pangcah)",
+      "language_code": "ami",
+      "dialect": "uncertain",
+      "author_dictionary": "Safulo Kacaw Lalanges Hakasi",
+      "author_datasystem": "Mirusa Usiliq",
+      "date": "2023/08/04",
+      "time": "00:00",
+      "location": "Hualien, Taiwan",
+      "device": "MacOS",
+      "license": "MIT",
+      "reference": "..."
+    }
+  },
+  "linguistics": {
+    "pos": "",
+    "ipa": "t͡saʡəŋaɾ"
+  },
+  "nyms": {
+    "synonyms": [],
+    "antonyms": [],
+    "hyponyms": [],
+    "metonyms": [],
+    "homonyms": [],
+    "heternyms": [],
+    "homographs": [],
+    "polysemous": [],
+    "synecdoche": [],
+    "word_family": []
+  },
+  "definitions": [
+    {
+      "language": "zh-tw",
+      "explaination": "架起樹枝。",
+      "example": "￹`Patireng~ `to~ `kasoy~ sapi`ca'engar~.￺￻把樹枝架起燒烤之用。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "燒烤的食物。",
+      "example": "￹`Caca'engaren~ `ko~ `kasoy~ sapi`hodhod~ `to~ `tama'~.￺￻樹枝架起來燒烤獵物。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "把樹枝、竹竿等呈交叉狀架起來。",
+      "example": "￹`O~ `toloay~ `a~ `kasoy~ `ko~ `sapisanga'~ `to~ `parod~.￺￻用三枝樹枝架成爐灶。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "把食物架在火上燒烤。",
+      "example": "￹`Mica'engar~ `to~ `hahodhoden~ `a~ `titi~.￺￻把肉放在架上燒烤。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    }
+  ],
+  "declensions": [],
+  "conjugation": []
+}

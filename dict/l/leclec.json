@@ -1,0 +1,68 @@
+{
+  "term": "leclec",
+  "properties": {
+    "id": "",
+    "tags": [],
+    "level": {
+      "cefr": "",
+      "ilrdf": ""
+    },
+    "basic": {
+      "language": "Amis (Pangcah)",
+      "language_code": "ami",
+      "dialect": "uncertain",
+      "author_dictionary": "Safulo Kacaw Lalanges Hakasi",
+      "author_datasystem": "Mirusa Usiliq",
+      "date": "2023/08/04",
+      "time": "00:00",
+      "location": "Hualien, Taiwan",
+      "device": "MacOS",
+      "license": "MIT",
+      "reference": "..."
+    }
+  },
+  "linguistics": {
+    "pos": "",
+    "ipa": "lət͡slət͡s"
+  },
+  "nyms": {
+    "synonyms": [],
+    "antonyms": [],
+    "hyponyms": [],
+    "metonyms": [],
+    "homonyms": [],
+    "heternyms": [],
+    "homographs": [],
+    "polysemous": [],
+    "synecdoche": [],
+    "word_family": []
+  },
+  "definitions": [
+    {
+      "language": "zh-tw",
+      "explaination": "時間緊迫，準點，準時。",
+      "example": "￹Laleclec `saan~ `ko~ `romi'ad~ `ita~ `a~ `mipaherek~ `to~ `tayal~ `ita~.￺￻我們剛好花了一整天的時間才把工作做完。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "時機成熟，剛好。",
+      "example": "￹`Itiya~ `i~ `ta~gasa `ko~ lalecle`ca~n `a~ `widi~.￺￻那時候正好時機成熟了。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "繩形線條，拉緊的痕跡。",
+      "example": "￹Nilecle`ca~n `konini~ `a~ `ka'ered~.￺￻這條繩子拉緊了。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    }
+  ],
+  "declensions": [],
+  "conjugation": []
+}

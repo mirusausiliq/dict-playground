@@ -1,0 +1,77 @@
+{
+  "term": "mipakapiay",
+  "properties": {
+    "id": "",
+    "tags": [],
+    "level": {
+      "cefr": "",
+      "ilrdf": ""
+    },
+    "basic": {
+      "language": "Amis (Pangcah)",
+      "language_code": "ami",
+      "dialect": "uncertain",
+      "author_dictionary": "Safulo Kacaw Lalanges Hakasi",
+      "author_datasystem": "Mirusa Usiliq",
+      "date": "2023/08/04",
+      "time": "00:00",
+      "location": "Hualien, Taiwan",
+      "device": "MacOS",
+      "license": "MIT",
+      "reference": "...",
+      "pos": "stem"
+    }
+  },
+  "linguistics": {
+    "pos": "",
+    "ipa": "mipakapʔiʔaj"
+  },
+  "nyms": {
+    "synonyms": [],
+    "antonyms": [],
+    "hyponyms": [],
+    "metonyms": [],
+    "homonyms": [],
+    "heternyms": [],
+    "homographs": [],
+    "polysemous": [],
+    "synecdoche": [],
+    "word_family": []
+  },
+  "definitions": [
+    {
+      "language": "zh-tw",
+      "explaination": "增加了，增添了，加上了。",
+      "example": "￹`Mipakapiay~ `kako~ `to~ `tosiya~ `to~ `simal~.￺￻我正在給汽車添油了。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "指增加者，增添者。",
+      "example": "￹`O~ `kaka~ `ko~ `mipakapiay~ `to~ `kasoy~ `i~ `parod~.￺￻是姐姐給爐灶添柴。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "正在給某某配對了、搭配夥伴了、娶小妾了。",
+      "example": "￹`Mipakapiay~ ci`nira~.￺￻他有了情婦。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "指給予配對的、搭配夥伴的人、娶小妾的人。",
+      "example": "￹`Kiso~ `ko~ `mipakapiay~ `takowanan~.￺￻給我找搭伴的是你。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    }
+  ],
+  "declensions": [],
+  "conjugation": []
+}

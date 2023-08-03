@@ -1,0 +1,69 @@
+{
+  "term": "satawitawingsa",
+  "properties": {
+    "id": "",
+    "tags": [],
+    "level": {
+      "cefr": "",
+      "ilrdf": ""
+    },
+    "basic": {
+      "language": "Amis (Pangcah)",
+      "language_code": "ami",
+      "dialect": "uncertain",
+      "author_dictionary": "Safulo Kacaw Lalanges Hakasi",
+      "author_datasystem": "Mirusa Usiliq",
+      "date": "2023/08/04",
+      "time": "00:00",
+      "location": "Hualien, Taiwan",
+      "device": "MacOS",
+      "license": "MIT",
+      "reference": "...",
+      "pos": "stem"
+    }
+  },
+  "linguistics": {
+    "pos": "",
+    "ipa": "satawitawiŋsa"
+  },
+  "nyms": {
+    "synonyms": [],
+    "antonyms": [],
+    "hyponyms": [],
+    "metonyms": [],
+    "homonyms": [],
+    "heternyms": [],
+    "homographs": [],
+    "polysemous": [],
+    "synecdoche": [],
+    "word_family": []
+  },
+  "definitions": [
+    {
+      "language": "zh-tw",
+      "explaination": "(懸掛物) 搖擺，搖晃，搖搖晃晃，搖曳。",
+      "example": "￹`Satawitawingsa~ `kora~ `mitatingan~ `a~ `titi~.￺￻懸掛的肉搖擺著。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "走來走去、踱來踱去、不停地走動。",
+      "example": "",
+      "synonyms": "sata`diwadiw~aysa",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "處於搖動、擺動的狀態。",
+      "example": "￹`Satawitawingsa~ `a~ `misawicewicek~ `ko~ `wikol~ `a~ `matating~.￺￻被懸掛時，魚的尾巴甩來甩去掙扎著。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    }
+  ],
+  "declensions": [],
+  "conjugation": []
+}

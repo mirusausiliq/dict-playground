@@ -1,0 +1,68 @@
+{
+  "term": "korah",
+  "properties": {
+    "id": "",
+    "tags": [],
+    "level": {
+      "cefr": "",
+      "ilrdf": ""
+    },
+    "basic": {
+      "language": "Amis (Pangcah)",
+      "language_code": "ami",
+      "dialect": "uncertain",
+      "author_dictionary": "Safulo Kacaw Lalanges Hakasi",
+      "author_datasystem": "Mirusa Usiliq",
+      "date": "2023/08/04",
+      "time": "00:00",
+      "location": "Hualien, Taiwan",
+      "device": "MacOS",
+      "license": "MIT",
+      "reference": "..."
+    }
+  },
+  "linguistics": {
+    "pos": "",
+    "ipa": "koɾah"
+  },
+  "nyms": {
+    "synonyms": [],
+    "antonyms": [],
+    "hyponyms": [],
+    "metonyms": [],
+    "homonyms": [],
+    "heternyms": [],
+    "homographs": [],
+    "polysemous": [],
+    "synecdoche": [],
+    "word_family": []
+  },
+  "definitions": [
+    {
+      "language": "zh-tw",
+      "explaination": "麻織的男式長外衣。",
+      "example": "￹`Ciriko'~ `to~ `mahad~ `ko~ `faki~.￺￻年長者穿大麻的上衣。",
+      "synonyms": "`korah~",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "釀製米酒。",
+      "example": "￹`Misanga'~ `to~ `korah~ `ko~ `fafahiyan~.￺￻婦女在釀製米酒。",
+      "synonyms": "`fiko~",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "褐色，棕色，咖啡色。",
+      "example": "￹`Makorahay~ `ko~ `riko'~ `nora~ `kaying~.￺￻那位小姐穿咖啡色的衣服。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    }
+  ],
+  "declensions": [],
+  "conjugation": []
+}

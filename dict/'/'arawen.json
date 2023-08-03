@@ -1,0 +1,157 @@
+{
+  "term": "'arawen",
+  "properties": {
+    "id": "",
+    "tags": [],
+    "level": {
+      "cefr": "",
+      "ilrdf": ""
+    },
+    "basic": {
+      "language": "Amis (Pangcah)",
+      "language_code": "ami",
+      "dialect": "uncertain",
+      "author_dictionary": "Safulo Kacaw Lalanges Hakasi",
+      "author_datasystem": "Mirusa Usiliq",
+      "date": "2023/08/04",
+      "time": "00:00",
+      "location": "Hualien, Taiwan",
+      "device": "MacOS",
+      "license": "MIT",
+      "reference": "...",
+      "pos": "stem"
+    }
+  },
+  "linguistics": {
+    "pos": "",
+    "ipa": "ʡaɾawən"
+  },
+  "nyms": {
+    "synonyms": [],
+    "antonyms": [],
+    "hyponyms": [],
+    "metonyms": [],
+    "homonyms": [],
+    "heternyms": [],
+    "homographs": [],
+    "polysemous": [],
+    "synecdoche": [],
+    "word_family": []
+  },
+  "definitions": [
+    {
+      "language": "zh-tw",
+      "explaination": "去請來，去找來，叫來。",
+      "example": "￹`'Arawen~ `ko~ `faki~.￺￻去請舅舅來。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "`'araw~`e~`n~ `ho~",
+      "example": "",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "(短語)去請一下，叫來一下。",
+      "example": "",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "`'araw~ `han~",
+      "example": "￹`'Araw~ `han~ ma`foti'~ay `i~ `lidong~ `no~ `kilang~ `kira~ `kapah~.￺￻卻見那青年在樹下睡覺。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "(短語)卻是，但是。",
+      "example": "￹`Sa~ ko'esan`sa~ `ko~ sowal`ningra~ `'araw~ `han~ `o~ `misamangahay~.￺￻他說的甜言蜜語卻是騙子。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "`'araw~ `han~ `'i~",
+      "example": "",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "(短語)結果呢…，當…的時候。",
+      "example": "￹Ci`panay~ `sa~ `kako~ `'araw~ `han~ `'i~ `ci~ Us`ay~.￺￻我以為是巴奈小姐結果呢是烏賽小姐。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "`'araw~ `to~",
+      "example": "",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "再說吧，看看吧。",
+      "example": "￹`'araw~ `to~, `tayni~ atek!￺￻看看吧，可能會來。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "把…看見、窺視。",
+      "example": "￹`'Arawen~ `ako~ ca`nira~!￺￻我去看他們吧！",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "請來，叫來。",
+      "example": "￹`Ano~ `ca~ `ka~ `'arawen~ `ko~ `faki~, `ca~ `ka~ nga`ay~ `ko~ `demak~.￺￻不請舅舅來，事情會不順利。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "把…看見、窺視。",
+      "example": "￹`'Arawen~ `ako~ ca`nira~ !￺￻我去看他們吧！",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "口頭語。",
+      "example": "￹`'Arawen~ `ho~ `ci~ `faki~ `katayni~ `han~.￺￻去請舅舅過來。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "叫來，叫來吧。",
+      "example": "",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    }
+  ],
+  "declensions": [],
+  "conjugation": []
+}

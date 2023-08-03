@@ -1,0 +1,68 @@
+{
+  "term": "roma",
+  "properties": {
+    "id": "",
+    "tags": [],
+    "level": {
+      "cefr": "",
+      "ilrdf": ""
+    },
+    "basic": {
+      "language": "Amis (Pangcah)",
+      "language_code": "ami",
+      "dialect": "uncertain",
+      "author_dictionary": "Safulo Kacaw Lalanges Hakasi",
+      "author_datasystem": "Mirusa Usiliq",
+      "date": "2023/08/04",
+      "time": "00:00",
+      "location": "Hualien, Taiwan",
+      "device": "MacOS",
+      "license": "MIT",
+      "reference": "..."
+    }
+  },
+  "linguistics": {
+    "pos": "",
+    "ipa": "ɾoma"
+  },
+  "nyms": {
+    "synonyms": [],
+    "antonyms": [],
+    "hyponyms": [],
+    "metonyms": [],
+    "homonyms": [],
+    "heternyms": [],
+    "homographs": [],
+    "polysemous": [],
+    "synecdoche": [],
+    "word_family": []
+  },
+  "definitions": [
+    {
+      "language": "zh-tw",
+      "explaination": "別的，另外。",
+      "example": "￹`O~ `roma~ `tamdaw~ `'i~ `maolah~ ci`nira~an , `o~ `roma~ `'i~ `caay~ `kaolah~.￺￻有別的人喜歡他，也有的人不喜歡。",
+      "synonyms": "`o~ `roma~ `'i~,",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "此外，除此以外。",
+      "example": "￹`O~ `roma~ `sato~ `'i~, `mafana'~ `ko~ `ka'emangay~ `no~ `'Amis~ `a~ `patado~ `to~ `mato'asay~ `a~ `mi'orong~ `to~ `'inorong~.￺￻此外，阿美族少年會體恤老年人，常替代年長者挑東西。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "有時候，另一天。",
+      "example": "￹`To~ `roma~ `'i~ `mararom~ `kako~.￺￻有時候，我感到悲傷。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    }
+  ],
+  "declensions": [],
+  "conjugation": []
+}

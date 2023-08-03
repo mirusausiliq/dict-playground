@@ -1,0 +1,77 @@
+{
+  "term": "'anengelay",
+  "properties": {
+    "id": "",
+    "tags": [],
+    "level": {
+      "cefr": "",
+      "ilrdf": ""
+    },
+    "basic": {
+      "language": "Amis (Pangcah)",
+      "language_code": "ami",
+      "dialect": "uncertain",
+      "author_dictionary": "Safulo Kacaw Lalanges Hakasi",
+      "author_datasystem": "Mirusa Usiliq",
+      "date": "2023/08/04",
+      "time": "00:00",
+      "location": "Hualien, Taiwan",
+      "device": "MacOS",
+      "license": "MIT",
+      "reference": "...",
+      "pos": "stem"
+    }
+  },
+  "linguistics": {
+    "pos": "",
+    "ipa": "ʡanəŋəlaj"
+  },
+  "nyms": {
+    "synonyms": [],
+    "antonyms": [],
+    "hyponyms": [],
+    "metonyms": [],
+    "homonyms": [],
+    "heternyms": [],
+    "homographs": [],
+    "polysemous": [],
+    "synecdoche": [],
+    "word_family": []
+  },
+  "definitions": [
+    {
+      "language": "zh-tw",
+      "explaination": "苦了，發苦了。",
+      "example": "￹`'Anengelay~ `ho~ `kona~ `lopas~ `to~ `miming~ ( `'Anengelay~ `ho~ `to~ `miming~ `kona~ `lopas~.).￺￻這顆桃子還有點苦。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "苦的，發苦的。",
+      "example": "￹`'Anengelay~ `a~ `iyo~.￺￻發苦的藥。",
+      "synonyms": "`'angreray~",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "苦了，發苦了。",
+      "example": "￹`'Anengelay~ `ho~ `kona~ `lopas~ `to~ `miming~.￺￻這顆桃子還有點苦。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "苦的，發苦的。",
+      "example": "￹`'Anengelay~ `a~ `iyo~.￺￻發苦的藥。",
+      "synonyms": "`'angreray~",
+      "usage": "",
+      "tips": ""
+    }
+  ],
+  "declensions": [],
+  "conjugation": []
+}

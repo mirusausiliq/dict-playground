@@ -1,0 +1,148 @@
+{
+  "term": "to",
+  "properties": {
+    "id": "",
+    "tags": [],
+    "level": {
+      "cefr": "",
+      "ilrdf": ""
+    },
+    "basic": {
+      "language": "Amis (Pangcah)",
+      "language_code": "ami",
+      "dialect": "uncertain",
+      "author_dictionary": "Safulo Kacaw Lalanges Hakasi",
+      "author_datasystem": "Mirusa Usiliq",
+      "date": "2023/08/04",
+      "time": "00:00",
+      "location": "Hualien, Taiwan",
+      "device": "MacOS",
+      "license": "MIT",
+      "reference": "..."
+    }
+  },
+  "linguistics": {
+    "pos": "",
+    "ipa": "to"
+  },
+  "nyms": {
+    "synonyms": [],
+    "antonyms": [],
+    "hyponyms": [],
+    "metonyms": [],
+    "homonyms": [],
+    "heternyms": [],
+    "homographs": [],
+    "polysemous": [],
+    "synecdoche": [],
+    "word_family": []
+  },
+  "definitions": [
+    {
+      "language": "zh-tw",
+      "explaination": "時態助詞。",
+      "example": "￹`Halafinay~ `to~, `minokay~ `i~ `loma'~ `haw~ !￺￻好久了，回家吧！",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "表示動作行為已經完結。",
+      "example": "",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "(受格助詞)。",
+      "example": "",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "主要表示：",
+      "example": "",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "受動者。",
+      "example": "￹`Misimaw~ `to~ `cangra~ `to~ `omah~.￺￻他們在守護田地。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "特指動作行為的時間。",
+      "example": "￹`Matayal~ `kami~ `to~ `romi'ami'ad~.￺￻我們天天忙碌。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "對於，關於。",
+      "example": "￹`Awa~ `to~ `ko~ `pinang~ `noya~ `tatosaay~ `a~ `wawa~ `to~ kawali、ka^etip、katimol、`ka'amis~.￺￻那兩個小孩子對東西南北沒有辨認能力了。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "原因。",
+      "example": "￹`Awa~to `ko~ `sasowalen~ `ningra~ `to~ `lahekel~ `no~ `faloco'~ `ningra~.￺￻他父親高興得說不出話來。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "行為手段、工具。",
+      "example": "￹`Riwariwen~ `niyam~ `to~ `lalal~.￺￻我們用小鋤頭攉土。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "補充說明某種程度等。",
+      "example": "￹`Si^enaw~ay `ko~ `romi'ad~ `to~ `miming~ `anini~.￺￻今天天氣有一點冷。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "比較。",
+      "example": "￹`'Akawangay~ `ko~ `nga'ay~ `to~ poener`ay~.￺￻高個兒比挨個兒好。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "語氣助詞。",
+      "example": "￹`Kalomowad~ `to~ `ko~ `namo~, `ta^engaday~ `to~ `ko~ `romi'ad~.￺￻你們起床吧，天已經亮了。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "表示肯定或有肯定傾向的催促、測度等語氣。",
+      "example": "",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    }
+  ],
+  "declensions": [],
+  "conjugation": []
+}

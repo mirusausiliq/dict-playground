@@ -1,0 +1,85 @@
+{
+  "term": "misapokopokoh",
+  "properties": {
+    "id": "",
+    "tags": [],
+    "level": {
+      "cefr": "",
+      "ilrdf": ""
+    },
+    "basic": {
+      "language": "Amis (Pangcah)",
+      "language_code": "ami",
+      "dialect": "uncertain",
+      "author_dictionary": "Safulo Kacaw Lalanges Hakasi",
+      "author_datasystem": "Mirusa Usiliq",
+      "date": "2023/08/04",
+      "time": "00:00",
+      "location": "Hualien, Taiwan",
+      "device": "MacOS",
+      "license": "MIT",
+      "reference": "...",
+      "pos": "stem"
+    }
+  },
+  "linguistics": {
+    "pos": "",
+    "ipa": "misapokopokoh"
+  },
+  "nyms": {
+    "synonyms": [],
+    "antonyms": [],
+    "hyponyms": [],
+    "metonyms": [],
+    "homonyms": [],
+    "heternyms": [],
+    "homographs": [],
+    "polysemous": [],
+    "synecdoche": [],
+    "word_family": []
+  },
+  "definitions": [
+    {
+      "language": "zh-tw",
+      "explaination": "做成一節一節，弄成一節一節。",
+      "example": "￹`Misapokopokoh~ `to~ `'aol~.￺￻把竹子弄成一節一節的。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "正在做一節一節了。",
+      "example": "￹Misapoko`pokoh~ay `kako~ `to~ `'aol~.￺￻我在砍竹節兒。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "指把東西做一節一節的（人）。",
+      "example": "￹Misapoko`pokoh~ay `a~ `tamdaw~.￺￻砍節兒的人。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "把…做成一節一節了。",
+      "example": "￹Misapoko`pokoh~an `ni~ `wama~ `ko~ `kasoy~ `a~ `misetek~.￺￻父親把木柴砍一節一節的了。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "指做成一節一節的（東西）。",
+      "example": "￹Misapoko`pokoh~an `a~ `kilang~.￺￻被砍成節兒的木頭。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    }
+  ],
+  "declensions": [],
+  "conjugation": []
+}

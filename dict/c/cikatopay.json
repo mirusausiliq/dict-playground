@@ -1,0 +1,61 @@
+{
+  "term": "cikatopay",
+  "properties": {
+    "id": "",
+    "tags": [],
+    "level": {
+      "cefr": "",
+      "ilrdf": ""
+    },
+    "basic": {
+      "language": "Amis (Pangcah)",
+      "language_code": "ami",
+      "dialect": "uncertain",
+      "author_dictionary": "Safulo Kacaw Lalanges Hakasi",
+      "author_datasystem": "Mirusa Usiliq",
+      "date": "2023/08/04",
+      "time": "00:00",
+      "location": "Hualien, Taiwan",
+      "device": "MacOS",
+      "license": "MIT",
+      "reference": "...",
+      "pos": "stem"
+    }
+  },
+  "linguistics": {
+    "pos": "",
+    "ipa": "t͡sikatopaj"
+  },
+  "nyms": {
+    "synonyms": [],
+    "antonyms": [],
+    "hyponyms": [],
+    "metonyms": [],
+    "homonyms": [],
+    "heternyms": [],
+    "homographs": [],
+    "polysemous": [],
+    "synecdoche": [],
+    "word_family": []
+  },
+  "definitions": [
+    {
+      "language": "zh-tw",
+      "explaination": "有大葉山欖的 ",
+      "example": "￹`Cikatopay~ `sera~ `ko~ `pipaloma'an~ `ako~.￺￻我蓋房子的地是有大葉山欖樹的。 ",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "阿美族氏族名，居住東海岸的大港口，馬稼海、大俱來、石寧埔、白守蓮、蔴荖漏等部落。",
+      "example": "￹Misa`ngasaw~ `ko~ `Cikatopay~ `anini~ `a~ `pafilongan~ `i~ `Sa'aniwan~ `i~ 2023 `miheca~.￺￻2023年的過Cikatopay 氏族在宜灣舉辦親族會。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    }
+  ],
+  "declensions": [],
+  "conjugation": []
+}

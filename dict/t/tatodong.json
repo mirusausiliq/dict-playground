@@ -1,0 +1,77 @@
+{
+  "term": "tatodong",
+  "properties": {
+    "id": "",
+    "tags": [],
+    "level": {
+      "cefr": "",
+      "ilrdf": ""
+    },
+    "basic": {
+      "language": "Amis (Pangcah)",
+      "language_code": "ami",
+      "dialect": "uncertain",
+      "author_dictionary": "Safulo Kacaw Lalanges Hakasi",
+      "author_datasystem": "Mirusa Usiliq",
+      "date": "2023/08/04",
+      "time": "00:00",
+      "location": "Hualien, Taiwan",
+      "device": "MacOS",
+      "license": "MIT",
+      "reference": "...",
+      "pos": "stem"
+    }
+  },
+  "linguistics": {
+    "pos": "",
+    "ipa": "tatoɬoŋ"
+  },
+  "nyms": {
+    "synonyms": [],
+    "antonyms": [],
+    "hyponyms": [],
+    "metonyms": [],
+    "homonyms": [],
+    "heternyms": [],
+    "homographs": [],
+    "polysemous": [],
+    "synecdoche": [],
+    "word_family": []
+  },
+  "definitions": [
+    {
+      "language": "zh-tw",
+      "explaination": "正確，合適。",
+      "example": "￹`Makera~ `ko~ `matatodongay~ `i~ `faloco'~ `a~ `tayal~.￺￻找到適合的工作。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "真諦，意義。",
+      "example": "￹`O~ `maan~ `ko~ `tatodong~ `nonini~ `a~ `demak~ `saw~?￺￻這件事的意義是什麼呢?",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "被分配的任務，一份，一客。",
+      "example": "￹Citat`ongong~ay `tona~ `demak~ `ci~ `kacaw~.￺￻卡造先生 被分配了這項任務。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "中央，中心，中心點。",
+      "example": "￹`O~ `tatodong~ `a~ `kahiceraan~ `ko~ `Taywan~ `ko~ Natow `kowan~.￺￻南投縣是台灣的中心點。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    }
+  ],
+  "declensions": [],
+  "conjugation": []
+}

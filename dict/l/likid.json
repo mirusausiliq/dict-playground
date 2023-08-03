@@ -1,0 +1,68 @@
+{
+  "term": "likid",
+  "properties": {
+    "id": "",
+    "tags": [],
+    "level": {
+      "cefr": "",
+      "ilrdf": ""
+    },
+    "basic": {
+      "language": "Amis (Pangcah)",
+      "language_code": "ami",
+      "dialect": "uncertain",
+      "author_dictionary": "Safulo Kacaw Lalanges Hakasi",
+      "author_datasystem": "Mirusa Usiliq",
+      "date": "2023/08/04",
+      "time": "00:00",
+      "location": "Hualien, Taiwan",
+      "device": "MacOS",
+      "license": "MIT",
+      "reference": "..."
+    }
+  },
+  "linguistics": {
+    "pos": "",
+    "ipa": "likiɬ"
+  },
+  "nyms": {
+    "synonyms": [],
+    "antonyms": [],
+    "hyponyms": [],
+    "metonyms": [],
+    "homonyms": [],
+    "heternyms": [],
+    "homographs": [],
+    "polysemous": [],
+    "synecdoche": [],
+    "word_family": []
+  },
+  "definitions": [
+    {
+      "language": "zh-tw",
+      "explaination": "豐年祭儀。",
+      "example": "￹`O~ `likid~ `no~ `niyam~ `a~ `niyaro'~ `konini~ `a~ `sakero~.￺￻這個舞是我們部落豐年祭的舞。",
+      "synonyms": "`ilisin~",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "沖走，流走，流失。",
+      "example": "￹`Malikid~ `no~ `nanom~ `ko~ `tafo~ `ako~.￺￻我的便當被水沖走。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "潮流。",
+      "example": "￹`Alacecay~ `ko~ `tamdaw~ `to~ `kapal~ay-`ta~ingwa `o~ `likid~ `no~ `anini~ay `ko~ `nini~.￺￻人手一機是現代人的潮流。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    }
+  ],
+  "declensions": [],
+  "conjugation": []
+}

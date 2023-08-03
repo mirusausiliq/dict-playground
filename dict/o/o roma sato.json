@@ -1,0 +1,76 @@
+{
+  "term": "o roma sato",
+  "properties": {
+    "id": "",
+    "tags": [],
+    "level": {
+      "cefr": "",
+      "ilrdf": ""
+    },
+    "basic": {
+      "language": "Amis (Pangcah)",
+      "language_code": "ami",
+      "dialect": "uncertain",
+      "author_dictionary": "Safulo Kacaw Lalanges Hakasi",
+      "author_datasystem": "Mirusa Usiliq",
+      "date": "2023/08/04",
+      "time": "00:00",
+      "location": "Hualien, Taiwan",
+      "device": "MacOS",
+      "license": "MIT",
+      "reference": "..."
+    }
+  },
+  "linguistics": {
+    "pos": "",
+    "ipa": "ʔo ɾomʔa sato"
+  },
+  "nyms": {
+    "synonyms": [],
+    "antonyms": [],
+    "hyponyms": [],
+    "metonyms": [],
+    "homonyms": [],
+    "heternyms": [],
+    "homographs": [],
+    "polysemous": [],
+    "synecdoche": [],
+    "word_family": []
+  },
+  "definitions": [
+    {
+      "language": "zh-tw",
+      "explaination": "(短語。",
+      "example": "",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": ")",
+      "example": "",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "另外，舉例說。",
+      "example": "￹`O~ `roma~ `sato~　 `icowaay~ `ko~ `kofa~ `namo~ `itini~?￺￻另外，你們的鎮公所在哪裡呢？",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "而且，況且。",
+      "example": "￹`Onini~ `a~ `Malataw~ `i~, `o~ mi`'ada~hay `to~ `adada~ `a~ `kawas~, `o~ `milooday~ `a~ `kawas~, `o~ `roma~ `sato~ `o~ `pinokayan~ no`'orip~ `no~ `tamdaw~ `sanay~ `ko~ `latoh~ `no~ `to'as~.￺￻根據神話傳說這位`Malataw~（瑪拉道）神，是治病之神，是戰鬥之神，而且是人生的歸宿所在。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    }
+  ],
+  "declensions": [],
+  "conjugation": []
+}

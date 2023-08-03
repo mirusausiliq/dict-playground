@@ -1,0 +1,61 @@
+{
+  "term": "tadohan",
+  "properties": {
+    "id": "",
+    "tags": [],
+    "level": {
+      "cefr": "",
+      "ilrdf": ""
+    },
+    "basic": {
+      "language": "Amis (Pangcah)",
+      "language_code": "ami",
+      "dialect": "uncertain",
+      "author_dictionary": "Safulo Kacaw Lalanges Hakasi",
+      "author_datasystem": "Mirusa Usiliq",
+      "date": "2023/08/04",
+      "time": "00:00",
+      "location": "Hualien, Taiwan",
+      "device": "MacOS",
+      "license": "MIT",
+      "reference": "...",
+      "pos": "stem"
+    }
+  },
+  "linguistics": {
+    "pos": "",
+    "ipa": "taɬohan"
+  },
+  "nyms": {
+    "synonyms": [],
+    "antonyms": [],
+    "hyponyms": [],
+    "metonyms": [],
+    "homonyms": [],
+    "heternyms": [],
+    "homographs": [],
+    "polysemous": [],
+    "synecdoche": [],
+    "word_family": []
+  },
+  "definitions": [
+    {
+      "language": "zh-tw",
+      "explaination": "特地把…替代做事，特地為…服務；特地把…借助。",
+      "example": "￹`Toya~ `dadaya~ `maro'~ `cangra~ `i~ pa`putal~, `tadohan~ `nangra~ `ko~ `likat~ `no~ `fulad~ `a~ `mitapid~ `to~ `tilo~.￺￻那天晚上，她們坐在院外，特地借助月光縫補魚網。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "請隨意，不要客氣！",
+      "example": "￹`Ini~ `ko~ `kakaenen~, `tadohan~ `a~ `miala~ !￺￻食物放在這裏，隨意拿吧！",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    }
+  ],
+  "declensions": [],
+  "conjugation": []
+}

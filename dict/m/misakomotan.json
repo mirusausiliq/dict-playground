@@ -1,0 +1,77 @@
+{
+  "term": "misakomotan",
+  "properties": {
+    "id": "",
+    "tags": [],
+    "level": {
+      "cefr": "",
+      "ilrdf": ""
+    },
+    "basic": {
+      "language": "Amis (Pangcah)",
+      "language_code": "ami",
+      "dialect": "uncertain",
+      "author_dictionary": "Safulo Kacaw Lalanges Hakasi",
+      "author_datasystem": "Mirusa Usiliq",
+      "date": "2023/08/04",
+      "time": "00:00",
+      "location": "Hualien, Taiwan",
+      "device": "MacOS",
+      "license": "MIT",
+      "reference": "...",
+      "pos": "stem"
+    }
+  },
+  "linguistics": {
+    "pos": "",
+    "ipa": "misakomotan"
+  },
+  "nyms": {
+    "synonyms": [],
+    "antonyms": [],
+    "hyponyms": [],
+    "metonyms": [],
+    "homonyms": [],
+    "heternyms": [],
+    "homographs": [],
+    "polysemous": [],
+    "synecdoche": [],
+    "word_family": []
+  },
+  "definitions": [
+    {
+      "language": "zh-tw",
+      "explaination": "正在欺淩、欺負、欺辱了。",
+      "example": "￹`Misakomotan~ ca`nira~ `to~ `macahiway~ `a~ `tamdaw~.￺￻他們在欺壓受苦的人。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "指欺淩者，欺負者，欺辱者。",
+      "example": "￹`O~ `misakomotan~ `to~ `tamdaw~ `a~ `tapang~.￺￻欺負人的官吏。",
+      "synonyms": "mi`samsam~ay",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "把…欺淩了、欺負了、欺辱了。",
+      "example": "￹`Misakomotan~ `koya~ `kaying~.￺￻那位小姐欺負過別人。",
+      "synonyms": "",
+      "usage": "",
+      "tips": ""
+    },
+    {
+      "language": "zh-tw",
+      "explaination": "指欺淩的、欺負的、欺辱的（對象）。",
+      "example": "￹`Misakomotan~ `a~ `wawa~.￺￻遭受欺負的孩子。",
+      "synonyms": "`misamsaman~",
+      "usage": "",
+      "tips": ""
+    }
+  ],
+  "declensions": [],
+  "conjugation": []
+}
